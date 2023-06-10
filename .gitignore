@@ -1,0 +1,7 @@
+*.o
+*.gch
+ef_sim
+libs/*.o
+libs/*.gch
+src/*.o
+src/*.gch
