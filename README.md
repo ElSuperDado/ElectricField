@@ -1,4 +1,4 @@
-# Simple Electrical Field Simulation
+# Simple Electric Field Simulation
 **Authors**: Nikola Antonijevic & Damian Boquete Costa
 **Last modification**: 29.05.2021
 
@@ -9,7 +9,7 @@
 </p>
 
 ### Description
-This project is a simple electrical field simulator implemented in the C language. It simulates the interaction between positively and negatively charged particles.
+This project is a simple electric field simulator implemented in the C language. It simulates the interaction between positively and negatively charged particles.
 
 ### How to Run (Linux)
 To execute the program, follow these steps:
