@@ -1,5 +1,7 @@
 # Simple Electric Field Simulation
+
 **Authors**: Nikola Antonijevic & Damian Boquete Costa
+
 **Last modification**: 29.05.2021
 
 ---
